@@ -46,7 +46,8 @@ This project is a user-friendly car leasing calculator developed using Next.js. 
 -Select the lease period in months using the number input or range slider.
 -Adjust the down payment percentage using the range slider.
 -View the dynamically updated leasing cost, down payment, monthly installment, and interest rate.
-**Code Overview**
+
+## Code Overview
 *Calculator Logic (utils/calculator.ts)*
 Handles the core calculation of monthly installment, total lease cost, and down payment based on user inputs.
 
